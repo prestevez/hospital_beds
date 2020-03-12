@@ -1,0 +1,1 @@
+![](hosp_beds.png)
